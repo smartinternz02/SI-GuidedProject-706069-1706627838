@@ -4,9 +4,6 @@ A test automation framework for Amazon.ca.
 
 Written in Java, using Selenium WebDriver, TestNG, Maven, and the Page Object Model.
 
-An automation portfolio project by [Chris Wade](https://ca.linkedin.com/in/chrismarkwade "LinkedIn").
-
-
 ## Features
 
 - Use of the PageFactory class and the FindBy annotation to create Page Objects
