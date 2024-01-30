@@ -92,8 +92,6 @@ public class PlaceOrderPageTest extends BaseTest {
 }
 ```
 
-Video: [Test Place Order](https://youtu.be/O8Cs4V_rNWI "YouTube Video")
-
 ### Verify Product Offer Price
 
 ```java
@@ -121,10 +119,4 @@ public class ProductPageTest extends BaseTest {
     }
 }
 ```
-
-Video: [Verify Product Offer Price](https://youtu.be/5ZeZS52_sk4 "YouTube Video")
-
 ***
-
-Test videos can be found here:
-[Amazon Automation Videos](https://www.youtube.com/playlist?list=PLg5BxwBsa3IrFS8LBK7yussh3NsnKeZyV "YouTube Playlist")
